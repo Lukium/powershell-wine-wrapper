@@ -6,7 +6,7 @@
 ```bash
 wine PowerShell-7.4.1-win-xXX.msi
 ```
-2. Backup the existing powershell in Wine based on the arch you're using:
+2. Backup the following existing powershell.exe in Wine based on the arch you're using:
 ```bash
 x86 - $HOME/.wine/drive_c/windows/system32/WindowsPowerShell/v1.0/powershell.exe
 x64 - $HOME/.wine/drive_c/windows/syswow64/WindowsPowerShell/v1.0/powershell.exe
